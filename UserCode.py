@@ -3,6 +3,7 @@
 Created on Fri Aug 14 14:01:51 2020
 
 @author: Nikos Pavlidis
+@department: Life sciences
 """
 
 """
@@ -212,4 +213,3 @@ okButton2 = ttk.Button(app, width=10, text="       OK", command = takeLocation)
 okButton2.place(x=335, y=208)
 
 app.mainloop()
- 
